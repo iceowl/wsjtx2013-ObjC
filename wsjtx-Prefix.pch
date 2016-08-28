@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'wsjtx' target in the 'wsjtx' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
